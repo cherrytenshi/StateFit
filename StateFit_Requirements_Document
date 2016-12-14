@@ -1,0 +1,24 @@
+Overall requirements: Fitness app that records your workouts while a voice coach speaks to you. After recording you will be able to upload videos onto Facebook and challenge friends to do the same.
+
+Basic Functionatities:
+1) Camera recording within app - Willis
+2) Integration to facebook to upload files - Susan
+
+Secondary Functionalities:
+3) Play audio file while recording
+4) Creating a database for audio files and graphics (Creating Samples)
+
+Other Functionalities:
+5) UI - Log in and navigation through app
+6) UI - Graphics and logo
+7) Newer functionality and versions
+
+
+
+Basic Ideas for 5)
+a) Log In Page
+b) Navigation Page
+   b.1) Select a challenge (Challenge your friends will be a sub menu here)
+   b.2) View previous videos
+   b.3) Friends (look at your friends videos)
+   b.4) Settings
